@@ -42,11 +42,9 @@
 <p align="center">Artificial Intelligence </p>
 
 
-</center>
-
-
-
-
+<br>
+<br>
+<br>
 <br>
 
 <h3 align="center"> 🎇 Contact to me 🎇 </h3>
@@ -58,8 +56,9 @@
 </p>
 
 <br>
-
-
+<br>
+<br>
+<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -101,11 +100,10 @@
 
 <br>
 <br>
-
+<br>
 <br>
 
-<center>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyubokWi&show_icons=true&theme=merko)](https://github.com/kyubokWi/github-readme-stats)
-
-</center>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kyubokWi&show_icons=true&theme=merko" height="200">
+</p>
