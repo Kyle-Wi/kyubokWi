@@ -3,6 +3,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=KyubokWi&fontSize=70&animation=twinkling)
 
+
+<br>
+<br>
 <br>
 <br>
 
@@ -12,22 +15,35 @@
 
 <br>
 <br>
+<br>
+<br>
 
 
-<center> 
+<h3 align="center"> Major </h3>
 
-### Major
+<br>
 
-Business Administration(BBA)
-Chinese Language and Literature(BA) 
+<p align="center">Business Administration(BBA) </p>  
 
-### Ing
+<p align="center">Chinese Language and Literature(BA)</p>
 
-Back-End
-Data Science 
-Artificial Intelligence 
+<br>
+<br>
+<br>
+
+<h3 align="center"> Ing </h3>
+
+<br>
+
+<p align="center">Back-End</p>
+
+<p align="center">Data Science</p> 
+
+<p align="center">Artificial Intelligence </p>
+
 
 </center>
+
 
 
 
