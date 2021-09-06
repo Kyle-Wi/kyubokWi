@@ -7,6 +7,26 @@
 
 
 
+
+<center> 
+
+### Major
+
+Business Administration(BBA)
+Chinese Language and Literature(BA) 
+
+<br>
+
+### Ing
+
+Back-End
+Data Science 
+Artificial Intelligence 
+
+</center>
+
+
+
 <br>
 
 <h3 align="center"> 🎇 Contact to me 🎇 </h3>
@@ -64,6 +84,8 @@
 
 <br>
 
+<center>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyubokWi&show_icons=true&theme=merko)](https://github.com/kyubokWi/github-readme-stats)
 
-
+</center>
