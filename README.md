@@ -3,9 +3,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=KyubokWi&fontSize=70&animation=twinkling)
 
+<br>
+<br>
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkyubokWi%2Fhit-counter&count_bg=%23957EE1&title_bg=%232679BA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+<br>
+<br>
 
 
 <center> 
@@ -14,8 +20,6 @@
 
 Business Administration(BBA)
 Chinese Language and Literature(BA) 
-
-<br>
 
 ### Ing
 
