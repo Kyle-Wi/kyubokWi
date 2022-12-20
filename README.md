@@ -1,7 +1,7 @@
-# Orangeblue
+# Arangeblue
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Orangeblue&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Arangeblue&fontSize=70&animation=twinkling)
 
 
 <br>
