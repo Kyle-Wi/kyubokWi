@@ -23,4 +23,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=arangeblue&show_icons=true&theme=merko" height="200">
 </p>
 
+![black1848](https://road-to-kaggle-grandmaster.vercel.app/api/simple/black1848)
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/black1848/competition)
